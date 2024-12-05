@@ -1,6 +1,6 @@
 # Image Composition via Stable Diffusion 
 
-### We achieve image composition via Stable Diffusion Model. Application includes Funiture Try-on.
+### We achieve image composition via Stable Diffusion Model.
 
 
 ---
